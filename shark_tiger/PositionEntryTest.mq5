@@ -156,7 +156,7 @@ input double takeProfittPrice2;
 //#property script_show_inputs
 //#property script_show_confirm
 
-//const string TelegramBotToken = "6245008777:AAHfUg-t4vhPPX6MioVSaZYB2Hc_QCm4acI";
+
 //const string ChatId           = "-1001943701147";
 //const string TelegramApiUrl   = "https://api.telegram.org"; // Add this to Allow URLs
 
