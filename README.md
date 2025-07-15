@@ -23,7 +23,7 @@ This repository is a collection of research-driven tools, utilities, and experim
 
 ## ⚙️ Technologies
 - **Language:** MQL5
-- **Platform:** MetaTrader 5 (MT5)
+- **Platform:** Meta Editor,MetaTrader 5 (MT5)
 
 ---
 
